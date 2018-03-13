@@ -1,0 +1,61 @@
+---
+---
+
+.page {
+    margin: 0 auto;
+    padding: 20px;
+    padding-top: 2.6em;
+    max-width: 960px;
+
+    .masthead{
+        position: relative;
+
+        #title{
+            padding-left: 0;
+            font-size: 1.125em;
+            letter-spacing: 0.5em;
+        }
+        .social-list{
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+    }
+
+    .container{
+        padding-top: 1em;
+        
+        p{
+            font-size: 1em;
+            letter-spacing: 0.05em;
+            line-height: 2em;
+            padding-top: 1.6em;
+            color: black;
+        }
+        a,a:visited{
+            color: red;
+        }
+        a:hover,a:active{
+            text-decoration: underline;
+        }
+        .postTitle{
+            text-align: center;
+            font-size: 1.4em;     
+            letter-spacing: 0.125em;
+            font-weight: normal;
+            margin-top: 1.6em;
+            margin-bottom: 0.2em;
+            padding-bottom: 0.2em;
+        }
+        .postTitle+header{
+            text-align: center;
+        }
+        .postDate{
+            font-size: 0.3em;
+            letter-spacing: 0.15em;
+            color: gray;
+        }
+        
+    }
+}
+

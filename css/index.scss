@@ -1,0 +1,48 @@
+---
+---
+
+.page {
+    margin: 0 auto;
+    padding: 20px;
+    padding-top: 2.6em;
+    max-width: 960px;
+
+    .masthead{
+        position: relative;
+
+        #title{
+            padding-left: 0;
+            font-size: 1.125em;
+            letter-spacing: 0.5em;
+        }
+        .social-list{
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+    }
+
+    .container{
+        padding-top: 1em;
+
+        .post-item{
+            padding-top: 1.6em;
+            padding-bottom: 1.6em;
+            border-bottom: 1px solid gray;
+        
+            .postDate{
+                font-size: 0.6em;
+                letter-spacing: 0.2em;
+                color: gray;
+            }
+            .postTitle{
+                display: block;
+                margin-top: 0.625em;
+                font-size: 1.125em;
+                letter-spacing: 0.25em;
+            }
+        }
+        
+    }
+}
+
