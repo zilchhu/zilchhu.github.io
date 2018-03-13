@@ -13,11 +13,12 @@
         #title{
             padding-left: 0;
             font-size: 1.125em;
+            line-height: 1.125em;
             letter-spacing: 0.5em;
         }
-        .social-list{
+        .social-list{    
             position: absolute;
-            top: 0;
+            top: -2px;
             right: 0;
         }
     }
