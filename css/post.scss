@@ -12,8 +12,11 @@
 
         #title{
             padding-left: 0;
-            font-size: 1.125em;
-            letter-spacing: 0.5em;
+            font-size: 0.9em;
+            line-height: 0.9em;
+            letter-spacing: 0.4em;
+            color: #666666;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
         }
         .social-list{
             position: absolute;
@@ -46,6 +49,7 @@
             margin-top: 1.6em;
             margin-bottom: 0.2em;
             padding-bottom: 0.2em;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         }
         .postTitle+header{
             text-align: center;
