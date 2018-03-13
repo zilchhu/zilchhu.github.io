@@ -12,9 +12,11 @@
 
         #title{
             padding-left: 0;
-            font-size: 1.125em;
-            line-height: 1.125em;
-            letter-spacing: 0.5em;
+            font-size: 0.9em;
+            line-height: 0.9em;
+            letter-spacing: 0.4em;
+            color: #666666;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
         }
         .social-list{    
             position: absolute;
@@ -29,18 +31,20 @@
         .post-item{
             padding-top: 1.6em;
             padding-bottom: 1.6em;
-            border-bottom: 1px solid gray;
+            border-bottom: 1px solid lightgray;
         
             .postDate{
-                font-size: 0.6em;
+                font-size: 0.5em;
                 letter-spacing: 0.2em;
                 color: gray;
             }
             .postTitle{
                 display: block;
                 margin-top: 0.625em;
-                font-size: 1.125em;
-                letter-spacing: 0.25em;
+                font-size: 1.2em;
+                letter-spacing: 0.2em;
+               
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
             }
         }
         
