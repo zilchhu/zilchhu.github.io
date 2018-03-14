@@ -3,7 +3,7 @@
 .highlighter-rouge {
   padding: 3px 10px;
   margin: 0 5px;
-  font-size: 1em;
+  font-size: 0.825em;
   background-color: #eee;
   color: orangered;
   font-weight: 400;
@@ -17,7 +17,7 @@
   padding: 1.6em;
   background-color: #eee;
   line-height: 1.8em;
-  font-size: 1em;
+  font-size: 0.825em;
   font-weight: 400;
   font-family: Arial, Helvetica, sans-serif;
 }

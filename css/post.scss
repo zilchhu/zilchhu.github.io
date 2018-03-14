@@ -6,7 +6,7 @@
     padding: 20px;
     padding-top: 2.6em;
     max-width: 960px;
-   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 
     .masthead{
         position: relative;
@@ -17,7 +17,7 @@
             line-height: 0.9em;
             letter-spacing: 0.4em;
             color: #666666;
-            font-family: Verdana, Geneva, Tahoma, sans-serif;
+           
         }
         .social-list{
             position: absolute;
@@ -30,9 +30,9 @@
         padding-top: 1em;
         
         p{
-            font-size: 1em;
+            font-size: 0.825em;
             letter-spacing: 0.05em;
-            line-height: 2em;
+            line-height: 1.4em;
             margin-top: 1.6em;
             margin-bottom: 1.6em;
             color: black;
@@ -45,10 +45,10 @@
         }
         .postTitle{
             text-align: center;
-            font-size: 1.4em;     
-            letter-spacing: 0.125em;
+            font-size: 1.2em;     
+            letter-spacing: 0.1em;
             font-weight: normal;
-            margin-top: 1.6em;
+            margin-top: 1.4em;
             margin-bottom: 0.2em;
             padding-bottom: 0.2em;
            
@@ -57,8 +57,8 @@
             text-align: center;
         }
         .postDate{
-            font-size: 0.3em;
-            letter-spacing: 0.15em;
+            font-size: 0.5em;
+            letter-spacing: 0.125em;
             color: gray;
         }
         
