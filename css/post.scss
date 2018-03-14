@@ -35,10 +35,10 @@
             line-height: 1.4em;
             margin-top: 1.6em;
             margin-bottom: 1.6em;
-            color: black;
+            color: #555;
         }
         a,a:visited{
-            color: red;
+            color: orangered;
         }
         a:hover,a:active{
             text-decoration: underline;
@@ -51,7 +51,7 @@
             margin-top: 1.4em;
             margin-bottom: 0.2em;
             padding-bottom: 0.2em;
-           
+            color: #444;
         }
         .postTitle+header{
             text-align: center;
