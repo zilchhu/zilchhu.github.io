@@ -23,6 +23,8 @@ github_username:  zilchhu
 github_url: "https://github.com/zilchhu"
 # Build settings
 markdown: kramdown
+kramdown: 
+  input: GFM
 highlighter: rouge
 plugins:
   - jekyll-feed
